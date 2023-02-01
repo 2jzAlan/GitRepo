@@ -1,0 +1,21 @@
+{
+  "name": "gitrepo",
+  "version": "1.0.0",
+  "description": "Creating a Git Repo from Scratch",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2jzAlan/GitRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2jzAlan/GitRepo/issues"
+  },
+  "homepage": "https://github.com/2jzAlan/GitRepo#readme"
+}
